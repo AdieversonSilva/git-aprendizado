@@ -25,7 +25,8 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | Criando e clonando repositórios | ```git clone <URL> <nome-pasta>``` | Clona Repositório Git |
 | Criando e clonando repositórios | ``` mkdir ``` | Cria nova pasta |
 | Salvando Alterações no Repositório Local | ``` git status ``` | Verifica status dos arquivos do repositório |
-| Salvando Alterações no Repositório Local | ``` git add ``` | Prepara os arquivos para enviar |
+| Salvando Alterações no Repositório Local | ``` git add <Arquivo>``` | Prepara os arquivos para enviar de forma por arquivo|
+| Salvando Alterações no Repositório Local | ``` git add .``` | Prepara todos os arquivos para enviar |
 | Salvando Alterações no Repositório Local | ``` git commit -m "Menssagem" ``` | Envia os arquivo para repositório remoto |
 | Desfazendo Alterações no Repositório Local | ``` rm -rf .git ``` | Removendo o git init da pasta |
 | Desfazendo Alterações no Repositório Local | ``` git restore <Arquivo> ``` | Restaurando a versão anterior |
@@ -35,6 +36,9 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | Desfazendo Alterações no Repositório Local | ``` git reset --hard <hash do commit> ``` | O commit Escolhido será apagado |
 | Desfazendo Alterações no Repositório Local | ``` git log ``` | Log dos commits feitos |
 | Desfazendo Alterações no Repositório Local | ``` git reflog ``` | Log de todos os commits feitos |
+| Desfazendo Alterações no Repositório Local | ``` touch <Arquivo> ``` | Cria arquivo na pasta |
+| Desfazendo Alterações no Repositório Local | ``` git reset <Arquivo> ``` | Retirar arquivo do ``` git add ``` |
+| Desfazendo Alterações no Repositório Local | ``` git restore --staged <Arquivo> ``` | Retirar arquivo do ``` git add ``` |
 
 ## 🔍 Referências
 

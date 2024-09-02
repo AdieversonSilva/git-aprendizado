@@ -39,6 +39,10 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | Desfazendo Alterações no Repositório Local | ``` touch <Arquivo> ``` | Cria arquivo na pasta |
 | Desfazendo Alterações no Repositório Local | ``` git reset <Arquivo> ``` | Retirar arquivo do ``` git add ``` |
 | Desfazendo Alterações no Repositório Local | ``` git restore --staged <Arquivo> ``` | Retirar arquivo do ``` git add ``` |
+| Enviando e Baixando Alterações com o repositório Remoto | ``` git remote add origin <Arquivos> ``` | Adcionar caminho para enviar repositório |
+| Enviando e Baixando Alterações com o repositório Remoto | ``` git branch -M main ``` | Alterar branch master para main |
+| Enviando e Baixando Alterações com o repositório Remoto | ``` git push ``` | Enviar arquivos para diretório selecionado |
+| Enviando e Baixando Alterações com o repositório Remoto | ``` git pull ``` | Baixa repositório com alterações do remoto |
 
 ## 🔍 Referências
 

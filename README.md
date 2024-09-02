@@ -34,6 +34,7 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 
 ## 🔍 Referências
 - [Digital Innovation One](https://www.dio.me/)
-
+- [Documentação Git](https://git-scm.com/doc)
+- [Documentação Github](https://docs.github.com/)
 
 

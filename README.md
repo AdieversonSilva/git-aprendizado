@@ -57,10 +57,8 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 - [Documentação Git](https://git-scm.com/doc) 
 - [Documentação Github](https://docs.github.com/)
 
-<center>
-
-<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" height="20" tittle="nome imagem"/>
+<h5 align="center">
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" height="20" tittle="nome imagem"/> 
 
 ![Static Badge](https://img.shields.io/badge/Git-f6522f?style=for-the-badge&logo=git&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Github-c3c3c3?style=for-the-badge&logo=github&logoColor=000000) 
-
-</center>
+</h5>

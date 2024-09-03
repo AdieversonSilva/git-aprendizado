@@ -50,6 +50,14 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` git merge <Branch> ``` | Insere as alterações do ultimo commit da branch selecionada à branch atual |
 | Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` git branch ``` | Lista das Branches |
 | Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` git branch -d <Branch> ``` | Deleta a branch selecionada |
+| Trabalhando com Branches - Comando Úteis no dia a dia | ``` git fetch ``` | Baixar informações sem mesclar com o repositório local |
+| Trabalhando com Branches - Comando Úteis no dia a dia | ``` git diff <branch> origin/<branch>``` | Verifica as diferenças entre as brnaches |
+| Trabalhando com Branches - Comando Úteis no dia a dia | ``` git clone <URL> --branch <Branch> --single-branch ``` | Clona repositório da branch selecionada |
+| Trabalhando com Branches - Comando Úteis no dia a dia | ``` git stash ``` | Arquiva a ultima mudança e retorna a anterior |
+| Trabalhando com Branches - Comando Úteis no dia a dia | ``` git stash list ``` | List as ultimas mudanças arquivadas |
+| Trabalhando com Branches - Comando Úteis no dia a dia | ``` git stash pop ``` | Excluir ultima alteração arquivada |
+| Trabalhando com Branches - Comando Úteis no dia a dia | ``` git stash apply ``` | Manter a alteração na lista |
+| Extra | ``` git commit --amend -m <Commit> ``` | Alterar mensagem do commit |
 
 ## 🔍 Referências
 

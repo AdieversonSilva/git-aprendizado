@@ -15,8 +15,8 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 
 | Aulas | Códigos | Descrição |
 |-------|---------|-----------|
-| Configurando Git | ```git config user.name "<nome>"``` | Escolhe nome de usuário |
-| Configurando Git | ```git config user.email "<email>"``` | Escolhe email de usuário |
+| Configurando Git | ```git config user.name <nome>``` | Escolhe nome de usuário |
+| Configurando Git | ```git config user.email <email>``` | Escolhe email de usuário |
 | Configurando Git | ```git config init.defaultBranch <branch>``` | Altera a branch |
 | Configurando Git | ``` --global / --system / --local ```| Local onde será setado a configuração |
 | Configurando Git | ``` --list ``` | lista as configurações |

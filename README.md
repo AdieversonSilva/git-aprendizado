@@ -43,9 +43,24 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | Enviando e Baixando Alterações com o repositório Remoto | ``` git branch -M main ``` | Alterar branch master para main |
 | Enviando e Baixando Alterações com o repositório Remoto | ``` git push ``` | Enviar arquivos para diretório selecionado |
 | Enviando e Baixando Alterações com o repositório Remoto | ``` git pull ``` | Baixa repositório com alterações do remoto |
+| Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` git checkout -b <nome> ``` | Criar nova Branch |
+| Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` git checkout <nome> ``` | Trocar entre as Branches |
+| Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` echo "Informação dentro do arquivo" > <Arquivo.txt> ``` | Criar arquivo e colocar informação dentro |
+| Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` git branch -v ``` | Lista das Branches e ultimos commits de cada |
+| Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` git merge <Branch> ``` | Insere as alterações do ultimo commit da branch selecionada à branch atual |
+| Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` git branch ``` | Lista das Branches |
+| Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos | ``` git branch -d <Branch> ``` | Deleta a branch selecionada |
 
 ## 🔍 Referências
 
 - [Digital Innovation One](https://www.dio.me/)
-- [Documentação Git](https://git-scm.com/doc)
+- [Documentação Git](https://git-scm.com/doc) 
 - [Documentação Github](https://docs.github.com/)
+
+<center>
+
+<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" height="20" tittle="nome imagem"/>
+
+![Static Badge](https://img.shields.io/badge/Git-f6522f?style=for-the-badge&logo=git&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Github-c3c3c3?style=for-the-badge&logo=github&logoColor=000000) 
+
+</center>

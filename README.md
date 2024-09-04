@@ -58,6 +58,7 @@ Repositório para armazenar resumos sobre Git e Github do curso de versionamento
 | Trabalhando com Branches - Comando Úteis no dia a dia | ``` git stash pop ``` | Excluir ultima alteração arquivada |
 | Trabalhando com Branches - Comando Úteis no dia a dia | ``` git stash apply ``` | Manter a alteração na lista |
 | Extra | ``` git commit --amend -m <Commit> ``` | Alterar mensagem do commit |
+| Extra | ``` git commit -a -m <Commit> ``` | Adcionar e commitar repositório |
 
 ## 🔍 Referências
 
